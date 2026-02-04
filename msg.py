@@ -1,6 +1,2 @@
-from tkinter import messagebox, Tk
+print ("Hello! This is a App Engine !! 😊")
 
-root = Tk()
-root.withdraw()   # Hide main window
-
-messagebox.showinfo("Message", "Hello! This is a GUI message box 😊")
